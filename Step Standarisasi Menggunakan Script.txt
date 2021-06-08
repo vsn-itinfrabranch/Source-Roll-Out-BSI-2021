@@ -1,0 +1,13 @@
+Step standarisasi menggunakan script:
+
+1. Uninstall anti virus existing pada PC Windows 10 dan Windows 7 RAM 4 GB (Windows XP dan Windows 7 RAM 2 GB tetap menggunakan anti virus existing).
+2. Lepas/unjoin domain.
+3. Turn off Windows Firewall dari Control Panel.
+4. Run as admin script OS di akun admin existing.
+5. Login ke akun userbsi lalu run as admin script Browser Settings.bat dan IE Settings.reg.
+6. Login ke akun adminbsi lalu ubah IP, hostname, dan join domain.
+7. Pastikan kembali setting Windows Firewall sudah off di Control Panel.
+8. Setting printer dan pinpad di akun userbsi, test print menggunakan IE dari file Test Print Passbook.html.
+   Apabila hasil print berantakan, maka sesuaikan setting emulation dan driver printer seperti tertera di WI.
+
+Done
